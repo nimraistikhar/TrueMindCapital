@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-# TrueMindCapital
-TrueMind Assessment
-
-In the project directory, you can run:
-
-### `npm install`
-
-### `npm i react-hook-form`
-
-### `npm start`
-=======
 # Getting Started with Create React App
 
 This project was build using tailwind-css with [Create React App](https://github.com/facebook/create-react-app).
